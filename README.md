@@ -1,2 +1,1 @@
-# Word-Game-Project
 # LeetCode
